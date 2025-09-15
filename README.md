@@ -58,3 +58,5 @@ streamlit run analyze_data.py
 Use the sidebar filters to query the dataset.
 Switch to the "Chatbot" tab to ask questions about the companies.
 
+![Demo Video](/demo.gif)
+
