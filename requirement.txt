@@ -1,0 +1,7 @@
+selenium 
+webdriver-manager
+pip install blinker==1.7.0
+pip install selenium-wire
+pip install setuptools
+pip install pandas
+pip install streamlit
